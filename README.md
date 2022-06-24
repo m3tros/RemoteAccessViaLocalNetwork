@@ -1,5 +1,17 @@
 # RemoteAccessViaLocalNetwork
 Scripts in python 3.10.4 for remote access over local network.
+
+## Installation for python3
+```bash
+git clone https://github.com/John-MetrosSoftware/RemoteAccessViaLocalNetwork/
+cd RemoteAccessViaLocalNetwork
+pip3 install -r requirements.txt
+
+python3 server.py
+
+python3 client.py
+```
+
 ## Client
 ```python3
 import os
