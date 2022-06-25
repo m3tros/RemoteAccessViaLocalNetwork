@@ -1,5 +1,8 @@
 <h1 align="center">RemoteAccessViaLocalNetwork</h1> 
-Scripts in <a href="https://python.org">python</a> <a href="https://www.python.org/downloads/release/python-3104/">3.10.4</a>  for remote access over local network.
+
+## Description
+
+Scripts in <a href="https://python.org">python</a> <a href="https://www.python.org/downloads/release/python-3104/">3.10.4</a>  for remote access over local network. Based on the <a href="https://docs.python.org/3/library/socket.html">socket</a> library.
 
 ## Installation for python3
 ### Libraries
