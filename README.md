@@ -1,3 +1,7 @@
+<p align="center"> 
+  <img src="https://cdn-icons-png.flaticon.com/512/7097/7097120.png" alt="RemoteAccessViaLocalNetwork" width="80" height="80">
+</p>
+
 <h1 align="center">RemoteAccessViaLocalNetwork</h1> 
 
 ## Description
@@ -200,5 +204,4 @@ pyinstaller -F client.py
 autopep8 server.py --recursive --in-place
 autopep8 client.py --recursive --in-place
 ```
-## Developer 
-Telegram : https://t.me/metrossoftware
+
