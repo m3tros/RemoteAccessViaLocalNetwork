@@ -1,11 +1,9 @@
 <p align="center"> 
   <img src="https://cdn-icons-png.flaticon.com/512/7097/7097120.png" alt="RemoteAccessViaLocalNetwork" width="80" height="80">
 </p>
-
-<h1 align="center">RemoteAccessViaLocalNetwork</h1> 
+<h1 align="center">Remote Access via Local Network</h1> 
 
 ## Description
-
 Scripts in <a href="https://python.org">python</a> <a href="https://www.python.org/downloads/release/python-3104/">3.10.4</a>  for remote access over local network. Based on the <a href="https://docs.python.org/3/library/socket.html">socket</a> library.
 
 ## Installation for python3
