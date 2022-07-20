@@ -197,11 +197,4 @@ pyinstaller -F server.py
 pyinstaller -F client.py
 ```
 
-
-## PEP8
-<a href="https://pypi.org/project/autopep8/">autopep8</a> automatically formats Python code to conform to the PEP 8 style guide. It uses the pycodestyle utility to determine what parts of the code needs to be formatted. autopep8 is capable of fixing most of the formatting issues that can be reported by pycodestyle.
-```
-autopep8 server.py --recursive --in-place
-autopep8 client.py --recursive --in-place
-```
-
+ 
